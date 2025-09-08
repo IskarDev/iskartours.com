@@ -13,25 +13,32 @@
 <body class="d-flex flex-column vh-100">
     <header>
         <div class="container-fluid">
-            <nav class="navbar fixed-top">
+            <nav class="navbar navbar-default navbar-fixed-top">
                 <div class="container">
                     <a class="navbar-brand" href="#">
                         <img src="./assets/images/iskartourslogo.png" alt="Iskar Tours" width="150" height="40">
                     </a>
                 </div>
             </nav>
+            
         </div>
-        <?= $this->renderSection('banner') ?>
+        <div id="banner">
+            <?= $this->renderSection('banner') ?>
+        </div>
     </header>
-    <main></main>
+    <main>
+        <div class="container my-5">
+            <?= $this->renderSection('content') ?>
+        </div>
+    </main>
     <footer class="mt-auto">
         <div class="container-fluid">
             <div class="container">
                 Iskar Tours &copy;2025. Derechos Reservados
             </div>
         </div>
-        
     </footer>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="./assets/js/script.js"></script>
 </body>
 </html>

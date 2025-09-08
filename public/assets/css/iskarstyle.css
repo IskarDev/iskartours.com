@@ -3,3 +3,16 @@
 *{
     font-family: "Montserrat", sans-serif;
 }
+
+#banner{
+    width: 100%;
+    background-image: url('../images/banner1.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px; /* ajusta según necesidad */
+    color: white; /* para que el texto sea legible */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
