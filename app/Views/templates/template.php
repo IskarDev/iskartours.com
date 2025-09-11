@@ -28,11 +28,13 @@
             <?= $this->renderSection('banner') ?>
         </div>
     </header>
+    <hr>
     <main>
         <div class="container my-1 my-md-4">
             <?= $this->renderSection('content') ?>
         </div>
     </main>
+    <hr>
     <footer class="mt-auto">
         <div class="container-fluid">
             <div class="container">
