@@ -33,7 +33,7 @@
             <?= $this->renderSection('content') ?>
         </div>
     </main>
-    <footer class="bg-dark py-4 mt-auto">
+    <footer class="footer-dark py-4 mt-auto">
         <div class="container text-center">
             <p class="mb-0 text-light">
                 Iskar Tours &copy; <?= date('Y') ?> . All rights reserved.

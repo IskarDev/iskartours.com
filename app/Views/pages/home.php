@@ -27,13 +27,13 @@
         </div>
         <div class="col col-md-6 col-lg-4">
             <div class="card">
-                <img src="./assets/images/aeropuerto.webp" alt="Aeropuerto">
+                <img src="./assets/images/personal.webp" alt="Aeropuerto">
                 <div class="card-body">
                     <h5 class="card-title">
-                        🚐 Private Transportation – Airport ↔ Hotel
+                        🚐 Customized Transportation Services
                     </h5>
-                    <p class="card-text">Start your trip in Panama with the comfort and safety of a private transfer from Tocumen International Airport to your hotel.</p>
-                    <p class="card-text">A professional and punctual driver will greet you upon arrival and take you directly to your destination, hassle-free.</p>
+                    <p class="card-text">Enjoy the flexibility of private transportation tailored to your needs, perfect for beach trips, mountain getaways, events, or business travel anywhere in Panama.</p>
+                    <p class="card-text">Our professional and punctual driver will take you wherever you need to go, safely and comfortably.</p>
                     <div class="d-grip gap-2">
                         <button class="btn btn-primary" type="button">More Info</button>
                         <button class="btn btn-success" type="button">Book Now</button>
@@ -44,13 +44,13 @@
         </div>
         <div class="col col-md-6 col-lg-4">
             <div class="card">
-                <img src="./assets/images/aeropuerto.webp" alt="Aeropuerto">
+                <img src="./assets/images/corporativo.webp" alt="Aeropuerto">
                 <div class="card-body">
                     <h5 class="card-title">
-                        🚐 Private Transportation – Airport ↔ Hotel
+                        💼 Corporate Transfers
                     </h5>
-                    <p class="card-text">Start your trip in Panama with the comfort and safety of a private transfer from Tocumen International Airport to your hotel.</p>
-                    <p class="card-text">A professional and punctual driver will greet you upon arrival and take you directly to your destination, hassle-free.</p>
+                    <p class="card-text">We provide reliable executive transportation for business meetings, conferences, staff movements, or client visits.</p>
+                    <p class="card-text">Our professional and punctual driver ensures comfort, discretion, and efficiency for you and your team.</p>
                     <div class="d-grip gap-2">
                         <button class="btn btn-primary" type="button">More Info</button>
                         <button class="btn btn-success" type="button">Book Now</button>

@@ -40,6 +40,10 @@ nav.navbar.navbar-scroll.scrolled {
     filter:brightness(0.6);
 }
 
+.footer-dark {
+  background-color: #2e3a46; /* gris azulado oscuro, ajusta a tu marca */
+}
+
 @media(min-width:0px){
     #banner{
         height: 200px;
