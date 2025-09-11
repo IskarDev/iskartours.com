@@ -6,6 +6,7 @@
     <title>Iskar Tours Web Page</title>
     
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="./assets/css/iskarstyle.css">
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     
@@ -13,7 +14,7 @@
 <body class="d-flex flex-column vh-100">
     <header>
         <div class="container-fluid">
-            <nav class="navbar navbar-default navbar-fixed-top">
+            <nav class="navbar navbar-default fixed-top">
                 <div class="container">
                     <a class="navbar-brand" href="#">
                         <img src="./assets/images/iskartourslogo.png" alt="Iskar Tours" width="150" height="40">
@@ -22,19 +23,21 @@
             </nav>
             
         </div>
-        <div id="banner">
+        <div id="banner" class="banner-dark">
             <?= $this->renderSection('banner') ?>
         </div>
     </header>
     <main>
-        <div class="container my-5">
+        <div class="container my-1 my-md-4">
             <?= $this->renderSection('content') ?>
         </div>
     </main>
     <footer class="mt-auto">
         <div class="container-fluid">
             <div class="container">
-                Iskar Tours &copy;2025. Derechos Reservados
+                <p>
+                    Iskar Tours &copy;2025. All rights reserved.
+                </p> 
             </div>
         </div>
     </footer>

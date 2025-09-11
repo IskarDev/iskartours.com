@@ -17,8 +17,25 @@
     justify-content: center;
 }
 
-@media(max-width<576){
+.banner-dark{
+    filter:brightness(0.6);
+}
+
+@media(min-width:0px){
     #banner{
         height: 200px;
+    }
+}
+
+
+@media(min-width:768px){
+    #banner{
+        height: 300px;
+    }
+}
+
+@media(min-width:992px){
+    #banner{
+        height: 400px;
     }
 }
