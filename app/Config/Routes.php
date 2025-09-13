@@ -8,6 +8,6 @@ use CodeIgniter\Router\RouteCollection;
 /* $routes->get('/', 'Home::index'); */
 
 use App\Controllers\Pages;
-$routes->get('/', 'Pages::index');
-$routes->get('pages', [Pages::class, 'index']);
+$routes->get('/', 'Pages::home');
+$routes->get('pages', [Pages::class, 'home']);
 $routes->get('(:segment)', [Pages::class, 'view']);
