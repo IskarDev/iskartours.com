@@ -36,8 +36,15 @@ nav.navbar.navbar-scroll.scrolled {
 }
 
 
+
+
 .banner-dark{
     filter:brightness(0.6);
+}
+
+footer a.personallinks{
+    text-decoration: none;
+    color:white;
 }
 
 .footer-dark {
