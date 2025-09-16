@@ -18,8 +18,7 @@
                     <p class="card-text">Start your trip in Panama with the comfort and safety of a private transfer from Tocumen International Airport to your hotel.</p>
                     <p class="card-text">A professional and punctual driver will greet you upon arrival and take you directly to your destination, hassle-free.</p>
                     <div class="d-grip gap-2">
-                        <button class="btn btn-primary" type="button">More Info</button>
-                        <button class="btn btn-success" type="button">Book Now</button>
+                        <a href="https://wa.me/50768434370" class="btn btn-success" role="button"><i class="bi bi-whatsapp"></i> Book Now</a>
                     </div>
                     
                 </div>
@@ -35,8 +34,7 @@
                     <p class="card-text">Enjoy the flexibility of private transportation tailored to your needs, perfect for beach trips, mountain getaways, events, or business travel anywhere in Panama.</p>
                     <p class="card-text">Our professional and punctual driver will take you wherever you need to go, safely and comfortably.</p>
                     <div class="d-grip gap-2">
-                        <button class="btn btn-primary" type="button">More Info</button>
-                        <button class="btn btn-success" type="button">Book Now</button>
+                        <a href="https://wa.me/50768434370" class="btn btn-success" role="button"><i class="bi bi-whatsapp"></i> Book Now</a>
                     </div>
                     
                 </div>
@@ -52,8 +50,7 @@
                     <p class="card-text">We provide reliable executive transportation for business meetings, conferences, staff movements, or client visits.</p>
                     <p class="card-text">Our professional and punctual driver ensures comfort, discretion, and efficiency for you and your team.</p>
                     <div class="d-grip gap-2">
-                        <button class="btn btn-primary" type="button">More Info</button>
-                        <button class="btn btn-success" type="button">Book Now</button>
+                        <a href="https://wa.me/50768434370" class="btn btn-success" role="button"><i class="bi bi-whatsapp"></i> Book Now</a>
                     </div>
                     
                 </div>
