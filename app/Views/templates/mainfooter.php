@@ -4,8 +4,8 @@
             <div id="redesesociales">
                 <h6>SOCIAL NETWORKS</h6>
                 <p class="my-4">
-                    <a class="personallinks" href="https://www.facebook.com/iskartours/" target="_blank"><i class="bi bi-facebook"></i></a>
-                    <a class="personallinks" href="https://www.instagram.com/iskartours/" target="_blank"><i class="bi bi-instagram"></i></a>
+                    <a class="personallinks me-4" href="https://www.facebook.com/iskartours/" target="_blank"><i class="bi bi-facebook"></i></a>
+                    <a class="personallinks me-4" href="https://www.instagram.com/iskartours/" target="_blank"><i class="bi bi-instagram"></i></a>
                     <a class="personallinks" href="https://www.tiktok.com/@iskartours" target="_blank"><i class="bi bi-tiktok"></i></a>
                 </p>
             </div>

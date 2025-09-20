@@ -38,7 +38,7 @@
                 <img src="./assets/images/villaembera.webp" alt="Gamboa Monkeys Island Tours">
                 <div class="card-body">
                     <h5 class="card-title text-uppercase">
-                        🛶 Emberá Indigenous Village – Panama
+                        🛶 Emberá Indigenous Village
                     </h5>
                     <p class="card-text">Discover the vibrant culture of the Emberá people on this unforgettable visit to their riverside village deep in the Panamanian rainforest. Travel by traditional canoe, learn about their customs, music, and crafts, and enjoy a warm welcome from the community.</p>
                     <div class="d-grip gap-2">

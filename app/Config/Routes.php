@@ -7,6 +7,6 @@ use CodeIgniter\Router\RouteCollection;
  */
 /* $routes->get('/', 'Home::index'); */
 
-use App\Controllers\Pages;
 
 $routes->get('/', 'Pages::home');
+$routes->get('contact', 'Pages::view/contact');

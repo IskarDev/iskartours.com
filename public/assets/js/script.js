@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
   const navbar = document.getElementById('mainNavbar');
-  const threshold = 50; // píxeles de scroll antes de cambiar
+  const threshold = 1; // píxeles de scroll antes de cambiar
 
   function onScroll() {
     if (window.scrollY > threshold) {

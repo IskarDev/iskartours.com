@@ -11,7 +11,7 @@
     background-position: center;
     background-repeat: no-repeat;
     height: 500px; /* ajusta según necesidad */
-    color: white; /* para que el texto sea legible */
+    /*color: white;*/ /* para que el texto sea legible */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -39,7 +39,8 @@ nav.navbar.navbar-scroll.scrolled {
 
 
 .banner-dark{
-    filter:brightness(0.6);
+    filter:brightness(0.5);
+
 }
 
 footer a.personallinks{
