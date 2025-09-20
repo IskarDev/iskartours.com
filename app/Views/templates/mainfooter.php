@@ -1,4 +1,4 @@
-<div class="container text-center pt-5">
+<div class="container text-center pt-4">
     <div class="row">
         <div class="col-md-6">
             <div id="redesesociales">
@@ -10,8 +10,8 @@
                 </p>
             </div>
         </div>
-        <div class="col-md-6">
-            <div id="redesesociales">
+        <div class="col-md-6 my-5 my-md-0">
+            <div id="otherlinks">
                 <h6>OTHER LINKS</h6>
                 <p>
                 <ul class="list-unstyled">
